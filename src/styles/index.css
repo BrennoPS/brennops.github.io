@@ -9,8 +9,8 @@
   --border: #262b3d;
   --text: #e8eaf2;
   --text-dim: #9aa0b4;
-  --accent-1: #22d3ee; /* ciano */
-  --accent-2: #a855f7; /* roxo */
+  --accent-1: #38bdf8; /* azul gelo */
+  --accent-2: #ff3b3b; /* vermelho fogo */
   --grad: linear-gradient(120deg, var(--accent-1), var(--accent-2));
   --radius: 16px;
   --max: 1120px;
@@ -118,7 +118,7 @@ img {
 .btn--primary {
   background: var(--grad);
   color: #06111a;
-  box-shadow: 0 8px 24px -8px rgba(34, 211, 238, 0.6);
+  box-shadow: 0 8px 24px -8px rgba(56, 189, 248, 0.6);
 }
 .btn--ghost {
   background: transparent;
@@ -282,8 +282,8 @@ img {
   max-height: 720px;
   background: radial-gradient(
     circle,
-    rgba(168, 85, 247, 0.28),
-    rgba(34, 211, 238, 0.12) 45%,
+    rgba(255, 59, 59, 0.26),
+    rgba(56, 189, 248, 0.14) 45%,
     transparent 70%
   );
   filter: blur(20px);
@@ -336,7 +336,7 @@ img {
 .card:hover {
   transform: translateY(-6px);
   border-color: var(--accent-2);
-  box-shadow: 0 20px 40px -20px rgba(168, 85, 247, 0.5);
+  box-shadow: 0 20px 40px -20px rgba(255, 59, 59, 0.5);
 }
 .card__capa {
   height: 150px;
@@ -490,7 +490,7 @@ img {
   transform: translateY(16px);
   pointer-events: none;
   transition: opacity 0.3s ease, transform 0.3s ease;
-  box-shadow: 0 10px 24px -10px rgba(34, 211, 238, 0.7);
+  box-shadow: 0 10px 24px -10px rgba(56, 189, 248, 0.7);
   z-index: 40;
 }
 .topo--visivel {
