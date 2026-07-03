@@ -20,8 +20,8 @@ const projetos = [
   {
     titulo: 'Finanças',
     descricao: 'Aplicação para controle e organização de finanças pessoais.',
-    linkAoVivo: '', // TODO: Brenno enviar link ao vivo
-    linkRepo: '', // TODO: Brenno enviar link do repositório
+    linkAoVivo: 'https://brennops.github.io/financas/',
+    linkRepo: 'https://github.com/BrennoPS/financas',
     cor: ['#a855f7', '#22d3ee'],
     destaque: true,
   },
