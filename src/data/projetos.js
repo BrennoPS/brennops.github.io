@@ -14,7 +14,7 @@ const projetos = [
       'Site institucional de soluções elétricas: catálogo de produtos, orçamento e lista via WhatsApp.',
     linkAoVivo: 'https://brennops.github.io/ledopestana/',
     linkRepo: 'https://github.com/BrennoPS/ledopestana', // TODO: confirmar
-    cor: ['#38bdf8', '#2563eb'],
+    cor: ['#22d3ee', '#3b82f6'],
     destaque: true,
   },
   {
@@ -22,7 +22,7 @@ const projetos = [
     descricao: 'Aplicação para controle e organização de finanças pessoais.',
     linkAoVivo: '', // TODO: Brenno enviar link ao vivo
     linkRepo: '', // TODO: Brenno enviar link do repositório
-    cor: ['#ff3b3b', '#ff8a3d'],
+    cor: ['#a855f7', '#22d3ee'],
     destaque: true,
   },
   {
@@ -31,7 +31,7 @@ const projetos = [
       'Permite que os usuários criem imagens e ilustrações diretamente em uma página web.',
     linkAoVivo: 'https://brennopestana.github.io/Drawing_Canvas/',
     linkRepo: 'https://github.com/BrennoPestana/Drawing_Canvas',
-    cor: ['#60a5fa', '#1d4ed8'],
+    cor: ['#f472b6', '#a855f7'],
     destaque: false,
   },
   {
@@ -40,7 +40,7 @@ const projetos = [
       'Efetua cálculos básicos na web com interface amigável e exibição de resultados.',
     linkAoVivo: 'https://brennopestana.github.io/Calculator/',
     linkRepo: 'https://github.com/BrennoPestana/Calculator',
-    cor: ['#f87171', '#dc2626'],
+    cor: ['#38bdf8', '#818cf8'],
     destaque: false,
   },
   {
@@ -48,7 +48,7 @@ const projetos = [
     descricao: 'Gerador de QR Code com uma transição de cores no plano de fundo.',
     linkAoVivo: 'https://brennopestana.github.io/QR-Code/',
     linkRepo: 'https://github.com/BrennoPestana/QR-Code',
-    cor: ['#38bdf8', '#0ea5e9'],
+    cor: ['#34d399', '#22d3ee'],
     destaque: false,
   },
   {
@@ -56,7 +56,7 @@ const projetos = [
     descricao: 'Uma página web para apresentação de produto.',
     linkAoVivo: 'https://brennopestana.github.io/Product-preview/',
     linkRepo: 'https://github.com/BrennoPestana/Product-preview',
-    cor: ['#ff6b3d', '#e11d48'],
+    cor: ['#fbbf24', '#f472b6'],
     destaque: false,
   },
 ]
