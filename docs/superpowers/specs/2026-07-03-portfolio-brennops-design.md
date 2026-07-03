@@ -141,6 +141,14 @@ GitHub Actions builda e publica automaticamente (~1 min). Nenhum build manual.
 
 ## Pendências do Brenno (não bloqueiam o design)
 
-- [ ] Links do projeto **Finanças** (ao vivo + repo).
-- [ ] Confirmar repo do **Ledo e Pestana**.
-- [ ] Confirmar links de contato: LinkedIn, GitHub, WhatsApp, e-mail.
+- [ ] Links do projeto **Finanças** (ao vivo + repo) — hoje `TODO` em `src/data/projetos.js`.
+- [ ] Confirmar repo do **Ledo e Pestana** (`https://github.com/BrennoPS/ledopestana`).
+- [x] Links de contato migrados do site atual: LinkedIn, GitHub (`BrennoPS`),
+      WhatsApp (`5513991549766`). E-mail `brennops97@gmail.com` incluído.
+- [x] Links dos 4 projetos antigos migrados (conta `BrennoPestana`).
+
+## Status da implementação
+
+Implementado em `c:\Projects\brennops.github.io`. Build local OK (`npm run build`).
+Falta: criar o repo `brennops.github.io` no GitHub, ativar Pages (Source = GitHub
+Actions) e dar push.
